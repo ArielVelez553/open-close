@@ -1,0 +1,14 @@
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\bin\Debug\net7.0\principio open closed.exe
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\bin\Debug\net7.0\principio open closed.deps.json
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\bin\Debug\net7.0\principio open closed.runtimeconfig.json
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\bin\Debug\net7.0\principio open closed.dll
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\bin\Debug\net7.0\principio open closed.pdb
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.AssemblyInfoInputs.cache
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.AssemblyInfo.cs
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.dll
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\refint\principio open closed.dll
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.pdb
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\principio open closed.genruntimeconfig.cache
+C:\Users\CompuStore\OneDrive\Documentos\principio open closed\obj\Debug\net7.0\ref\principio open closed.dll
